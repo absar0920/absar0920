@@ -1,23 +1,31 @@
-# Hi there! 👋 I'm Absar!
+# Hi, I'm Muhammad Absar 👋
 
-I'm currently diving into the world of Cyber Security, honing my skills through the Google Cyber Security Certificate. Passionate about exploring the intersections of technology and security.
+Full-stack software engineer with ~2.5 years building and shipping production software — web, mobile, and the infrastructure under both. I work across the stack: **React / Next.js** on the front, **FastAPI / NestJS / Django** on the back, and **Docker + CI/CD** to get it deployed and kept alive.
 
-## 🌟 Interests
+I'm currently open to **remote roles**.
 
-- **Cyber Security:** Learning through the Google Cyber Security Certificate.
-- **Programming Languages:** Proficient in JavaScript and Python.
-- **AI Enthusiast:** Exploring the fascinating realms of Artificial Intelligence.
+## What I do
 
-## 🚀 What I'm Up To
+- **Full-stack web** — React 19 / Next.js front ends backed by NestJS, Django, or FastAPI APIs on PostgreSQL.
+- **Mobile** — built React + Capacitor mobile apps with custom native Swift/Java plugins, OTA updates, and App Store / Play store billing.
+- **Fintech** — an invoice-finance + healthcare-claims platform on NestJS/Prisma, where I owned invoice extraction, document intelligence, and serverless reliability as one of a small engineering team.
+- **Odoo / ERP** — a production Odoo 18 point-of-sale for pharmacies, packaged as a licensed native Windows installer with a companion Django activation service.
+- **DevOps** — Docker, GitHub Actions, VPS/EC2 deploys, Caddy reverse proxy, and observability with Sentry / PostHog.
 
-- **Learning:** Absorbing all things related to Cyber Security and expanding knowledge in JavaScript, Python, and AI.
-- **Projects:** Working on projects to apply my skills and deepen my understanding.
+## Selected work
 
-## 🤝 Let's Connect
+- **Invoice-finance fintech platform** — AI-driven invoice extraction (Google Gemini with an OpenRouter failover), a FastAPI + PyMuPDF PDF-render microservice, and customer sandbox provisioning on a NestJS/Prisma/Postgres backend.
+- **Pharmacy POS on Odoo 18** — PostgreSQL-backed point-of-sale with QWeb PDF reporting, a hardware-licensed Windows installer, and PowerShell install/backup/restore tooling.
+- **IdentityKit** — co-built a multi-tenant Django SaaS portfolio builder (subscription billing, GitHub OAuth, Pro custom domains, self-hosted Postgres on EC2); I led the backend, billing, and infrastructure. *(MIT, built with a collaborator)*
+- **agent-lineage** — a personal AI-agent observability tool: trace where a specific value entered a multi-step agent run, see the alternatives it beat, and replay recorded vs. live runs to pinpoint the first diverging step. Python/FastAPI + React.
 
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-absar-5219662a7/
-- **Twitter:** https://twitter.com/absar0920
+## Tech
 
-Feel free to explore my repositories and connect with me! I'm always open to collaborations and discussions on Cyber Security, coding, or anything tech-related.
+`TypeScript` · `Python` · `React` · `Next.js` · `NestJS` · `Django` · `FastAPI` · `PostgreSQL` · `Prisma` · `Capacitor` · `Docker` · `GitHub Actions` · `AWS` · `Redis` · `Sentry`
 
-Happy coding! 😊✨
+## Contact
+
+- 📫 Email: absar0920@gmail.com
+- 💻 GitHub: [@absar0920](https://github.com/absar0920)
+
+> Open to full-stack remote roles. The quickest way to reach me is email.
